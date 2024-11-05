@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">In Kotlin, what keyword is used to declare a function?</string>
+    <string name="answer1">fun</string>
+    <string name="question2">What keyword is used to create an immutable variable in Kotlin?</string>
+    <string name="answer2">val</string>
+    <string name="question3">In Kotlin, what keyword is used to create an mutable variable?</string>
+    <string name="answer3">var</string>
+    <string name="question4">Which function in Kotlin is used to print to the console?</string>
+    <string name="answer4">println</string>
+    <string name="question5">What keyword is used to define a data class in Kotlin?</string>
+    <string name="answer5">data</string>
+    <string name="welcome">Welcome,\nClick below for your first question</string>
+    <string name="start_quiz_button">Start Quiz!</string>
+    <string name="answer_field_label">Take a wild guess!</string>
+    <string name="submit_answer_button">Submit Answer</string>
+    <string name="quiz_summary">Quiz Summary</string>
+    <string name="restart_quiz_button">Restart Quiz</string>
+
+</resources>
